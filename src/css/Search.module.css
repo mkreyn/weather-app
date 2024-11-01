@@ -1,0 +1,11 @@
+.citySearch {
+	padding: 5px;
+	font-size: 14px;
+	border: 1px solid #354a12;
+	outline: none;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.elGroup {
+	margin-bottom: 20px;
+}
